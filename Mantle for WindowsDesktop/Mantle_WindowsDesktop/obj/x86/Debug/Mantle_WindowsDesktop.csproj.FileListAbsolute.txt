@@ -1,0 +1,10 @@
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\bin\Debug\Mantle_WindowsDesktop.exe
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\bin\Debug\Mantle_WindowsDesktop.pdb
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\obj\x86\Debug\Mantle_WindowsDesktop.Form1.resources
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\obj\x86\Debug\Mantle_WindowsDesktop.Properties.Resources.resources
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\obj\x86\Debug\Mantle_WindowsDesktop.exe
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\obj\x86\Debug\Mantle_WindowsDesktop.pdb
+D:\Programming\C#\Mantle_WindowsDesktop\Mantle_WindowsDesktop\bin\Debug\Mantle_WindowsDesktop.exe.config
